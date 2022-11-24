@@ -1,0 +1,30 @@
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\bin\Debug\net5.0\Test.Data.deps.json
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\bin\Debug\net5.0\Test.Data.runtimeconfig.json
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\bin\Debug\net5.0\Test.Data.runtimeconfig.dev.json
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\bin\Debug\net5.0\Test.Data.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\bin\Debug\net5.0\ref\Test.Data.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\bin\Debug\net5.0\Test.Data.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.AssemblyInfoInputs.cache
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.AssemblyInfo.cs
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.csproj.CoreCompileInputs.cache
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\obj\Debug\net5.0\ref\Test.Data.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.genruntimeconfig.cache
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.csproj.AssemblyReference.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\bin\Debug\net5.0\Test.Data.deps.json
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\bin\Debug\net5.0\Test.Data.runtimeconfig.json
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\bin\Debug\net5.0\Test.Data.runtimeconfig.dev.json
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\bin\Debug\net5.0\Test.Data.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\bin\Debug\net5.0\Test.Data.pdb
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.csproj.AssemblyReference.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.AssemblyInfoInputs.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.AssemblyInfo.cs
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\obj\Debug\net5.0\refint\Test.Data.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.pdb
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\obj\Debug\net5.0\Test.Data.genruntimeconfig.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Data\obj\Debug\net5.0\ref\Test.Data.dll

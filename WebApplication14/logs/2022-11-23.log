@@ -1,0 +1,173 @@
+2022-11-23 23:02:48.6253 DEBUG Hosting starting
+2022-11-23 23:02:48.7371 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-23 23:02:48.7740 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-23 23:02:48.7740 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-23 23:02:48.7740 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-23 23:02:48.7740 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-23 23:02:48.7740 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-23 23:02:48.7740 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-23 23:02:48.7740 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-23 23:02:48.7909 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-23 23:02:48.8057 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-23 23:02:48.8057 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-23 23:02:48.8057 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-23 23:02:48.8057 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-23 23:02:48.8057 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-23 23:02:48.8057 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-23 23:02:48.8274 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-23 23:02:48.9269 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-23 23:02:48.9466 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-23 23:02:48.9466 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-23 23:02:48.9466 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-23 23:02:48.9619 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-23 23:02:48.9619 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-23 23:02:48.9619 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-23 23:02:49.4210 INFO Now listening on: http://localhost:5000
+2022-11-23 23:02:49.4210 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-23 23:02:49.4210 INFO Application started. Press Ctrl+C to shut down.
+2022-11-23 23:02:49.4262 INFO Hosting environment: Development
+2022-11-23 23:02:49.4262 INFO Content root path: C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14
+2022-11-23 23:02:49.4262 DEBUG Hosting started
+2022-11-23 23:02:49.7390 DEBUG Connection id "0HMMDJPR2JIPR" accepted.
+2022-11-23 23:02:49.7390 DEBUG Connection id "0HMMDJPR2JIPQ" accepted.
+2022-11-23 23:02:49.7390 DEBUG Connection id "0HMMDJPR2JIPR" started.
+2022-11-23 23:02:49.7390 DEBUG Connection id "0HMMDJPR2JIPQ" started.
+2022-11-23 23:02:49.7767 DEBUG Connection id "0HMMDJPR2JIPR" received FIN.
+2022-11-23 23:02:49.7767 DEBUG Connection id "0HMMDJPR2JIPQ" received FIN.
+2022-11-23 23:02:49.7934 DEBUG Connection id "0HMMDJPR2JIPR" disconnecting.
+2022-11-23 23:02:49.7934 DEBUG Connection id "0HMMDJPR2JIPQ" sending FIN because: "The client closed the connection."
+2022-11-23 23:02:49.7934 DEBUG Connection id "0HMMDJPR2JIPR" sending FIN because: "The client closed the connection."
+2022-11-23 23:02:49.7934 DEBUG Connection id "0HMMDJPR2JIPQ" disconnecting.
+2022-11-23 23:02:49.7934 DEBUG Connection id "0HMMDJPR2JIPR" stopped.
+2022-11-23 23:02:49.7934 DEBUG Connection id "0HMMDJPR2JIPQ" stopped.
+2022-11-23 23:02:50.9247 DEBUG Connection id "0HMMDJPR2JIPS" accepted.
+2022-11-23 23:02:50.9247 DEBUG Connection id "0HMMDJPR2JIPS" started.
+2022-11-23 23:02:50.9247 DEBUG Connection id "0HMMDJPR2JIPT" accepted.
+2022-11-23 23:02:50.9247 DEBUG Connection id "0HMMDJPR2JIPT" started.
+2022-11-23 23:02:51.0100 INFO Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2022-11-23 23:02:51.0100 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-23 23:02:51.0100 TRACE All hosts are allowed.
+2022-11-23 23:02:51.1653 DEBUG Connection id "0HMMDJPR2JIPS" completed keep alive response.
+2022-11-23 23:02:51.1740 INFO Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 163.3354ms
+2022-11-23 23:02:51.1970 INFO Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2022-11-23 23:02:51.1970 DEBUG Connection id "0HMMDJPR2JIPU" accepted.
+2022-11-23 23:02:51.1970 INFO Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - -
+2022-11-23 23:02:51.1970 TRACE All hosts are allowed.
+2022-11-23 23:02:51.1970 DEBUG Connection id "0HMMDJPR2JIPU" started.
+2022-11-23 23:02:51.2074 TRACE All hosts are allowed.
+2022-11-23 23:02:51.2074 INFO Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2022-11-23 23:02:51.2074 TRACE All hosts are allowed.
+2022-11-23 23:02:51.2277 TRACE Range header's value is empty.
+2022-11-23 23:02:51.2277 TRACE Range header's value is empty.
+2022-11-23 23:02:51.2277 TRACE Range header's value is empty.
+2022-11-23 23:02:51.2679 INFO Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-11-23 23:02:51.2679 INFO Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-11-23 23:02:51.2831 DEBUG Connection id "0HMMDJPR2JIPS" completed keep alive response.
+2022-11-23 23:02:51.2831 DEBUG Connection id "0HMMDJPR2JIPU" completed keep alive response.
+2022-11-23 23:02:51.2831 INFO Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - - - 200 142933 text/css 85.0558ms
+2022-11-23 23:02:51.2831 INFO Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 76.3200ms
+2022-11-23 23:02:51.2831 INFO Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-11-23 23:02:51.3072 DEBUG Connection id "0HMMDJPR2JIPT" completed keep alive response.
+2022-11-23 23:02:51.3072 INFO Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 110.4507ms
+2022-11-23 23:02:51.5153 INFO Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2022-11-23 23:02:51.5198 TRACE All hosts are allowed.
+2022-11-23 23:02:51.5384 INFO Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - -
+2022-11-23 23:02:51.5384 TRACE All hosts are allowed.
+2022-11-23 23:02:51.5384 TRACE Range header's value is empty.
+2022-11-23 23:02:51.5384 INFO Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2022-11-23 23:02:51.5384 DEBUG Connection id "0HMMDJPR2JIPU" completed keep alive response.
+2022-11-23 23:02:51.5384 INFO Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - - - 200 628 image/png 9.1121ms
+2022-11-23 23:02:51.6847 DEBUG Connection id "0HMMDJPR2JIPT" completed keep alive response.
+2022-11-23 23:02:51.6847 INFO Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 169.6607ms
+2022-11-23 23:54:10.0867 DEBUG Hosting starting
+2022-11-23 23:54:10.1892 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-23 23:54:10.2004 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-23 23:54:10.2093 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-23 23:54:10.2093 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-23 23:54:10.2250 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-23 23:54:10.2250 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-23 23:54:10.2407 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-23 23:54:10.2407 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-23 23:54:10.2653 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-23 23:54:10.2719 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-23 23:54:10.2719 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-23 23:54:10.2719 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-23 23:54:10.2719 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-23 23:54:10.2719 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-23 23:54:10.2719 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-23 23:54:10.2719 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-23 23:54:10.3758 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-23 23:54:10.3758 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-23 23:54:10.3758 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-23 23:54:10.3813 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-23 23:54:10.3813 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-23 23:54:10.3813 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-23 23:54:10.3813 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-23 23:54:10.6611 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-23 23:54:10.6611 INFO Application started. Press Ctrl+C to shut down.
+2022-11-23 23:54:10.6611 INFO Hosting environment: Development
+2022-11-23 23:54:10.6611 INFO Content root path: C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14
+2022-11-23 23:54:10.6620 DEBUG Hosting started
+2022-11-23 23:54:10.7308 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/index.html - -
+2022-11-23 23:54:10.7308 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-23 23:54:10.7308 TRACE All hosts are allowed.
+2022-11-23 23:54:10.8836 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/index.html - - - 200 - text/html;charset=utf-8 153.5983ms
+2022-11-23 23:54:10.9032 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui.css - -
+2022-11-23 23:54:10.9032 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui-standalone-preset.js - -
+2022-11-23 23:54:10.9032 TRACE All hosts are allowed.
+2022-11-23 23:54:10.9146 TRACE All hosts are allowed.
+2022-11-23 23:54:10.9032 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui-bundle.js - -
+2022-11-23 23:54:10.9146 TRACE All hosts are allowed.
+2022-11-23 23:54:10.9748 TRACE Range header's value is empty.
+2022-11-23 23:54:10.9748 TRACE Range header's value is empty.
+2022-11-23 23:54:10.9748 TRACE Range header's value is empty.
+2022-11-23 23:54:11.0058 INFO Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-11-23 23:54:11.0058 INFO Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-11-23 23:54:11.0058 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui.css - - - 200 142933 text/css 108.7541ms
+2022-11-23 23:54:11.0058 INFO Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-11-23 23:54:11.0212 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 117.6048ms
+2022-11-23 23:54:11.0532 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 149.8668ms
+2022-11-23 23:54:11.2009 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - -
+2022-11-23 23:54:11.2009 TRACE All hosts are allowed.
+2022-11-23 23:54:11.2189 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/favicon-32x32.png - -
+2022-11-23 23:54:11.2189 TRACE All hosts are allowed.
+2022-11-23 23:54:11.2189 TRACE Range header's value is empty.
+2022-11-23 23:54:11.2189 INFO Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2022-11-23 23:54:11.2189 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/favicon-32x32.png - - - 200 628 image/png 1.9326ms
+2022-11-23 23:54:11.2868 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 85.8150ms
+2022-11-23 23:54:23.8713 DEBUG Hosting starting
+2022-11-23 23:54:23.9410 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-23 23:54:23.9517 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-23 23:54:23.9517 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-23 23:54:23.9517 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-23 23:54:23.9517 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-23 23:54:23.9517 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-23 23:54:23.9517 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-23 23:54:23.9517 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-23 23:54:23.9584 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-23 23:54:23.9584 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-23 23:54:23.9584 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-23 23:54:23.9584 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-23 23:54:23.9584 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-23 23:54:23.9584 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-23 23:54:23.9584 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-23 23:54:23.9584 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-23 23:54:24.0140 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-23 23:54:24.0140 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-23 23:54:24.0140 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-23 23:54:24.0140 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-23 23:54:24.0215 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-23 23:54:24.0215 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-23 23:54:24.0215 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-23 23:54:24.1668 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-23 23:54:24.1668 INFO Application started. Press Ctrl+C to shut down.
+2022-11-23 23:54:24.1668 INFO Hosting environment: Development
+2022-11-23 23:54:24.1668 INFO Content root path: C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14
+2022-11-23 23:54:24.1668 DEBUG Hosting started
+2022-11-23 23:54:24.2042 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/index.html - -
+2022-11-23 23:54:24.2042 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-23 23:54:24.2042 TRACE All hosts are allowed.
+2022-11-23 23:54:24.3126 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/index.html - - - 200 - text/html;charset=utf-8 108.7010ms
+2022-11-23 23:54:24.5324 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - -
+2022-11-23 23:54:24.5324 TRACE All hosts are allowed.
+2022-11-23 23:54:24.6242 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 91.7744ms

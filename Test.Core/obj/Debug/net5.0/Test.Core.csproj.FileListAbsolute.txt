@@ -1,0 +1,36 @@
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Core.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Data.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Data.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+C:\Users\G-Mykel\Downloads\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Core.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Data.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\bin\Debug\net5.0\Test.Data.pdb
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\obj\Debug\net5.0\refint\Test.Core.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll

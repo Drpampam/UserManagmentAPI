@@ -1,0 +1,184 @@
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\appsettings.json
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.exe
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.deps.json
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.runtimeconfig.json
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.runtimeconfig.dev.json
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.dll
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\ref\WebApplication14.dll
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.pdb
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.csprojAssemblyReference.cache
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.AssemblyInfoInputs.cache
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.AssemblyInfo.cs
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.csproj.CoreCompileInputs.cache
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\staticwebassets\WebApplication14.StaticWebAssets.Manifest.cache
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\staticwebassets\WebApplication14.StaticWebAssets.xml
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\scopedcss\bundle\WebApplication14.styles.css
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.RazorTargetAssemblyInfo.cache
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.dll
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\ref\WebApplication14.dll
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.pdb
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.genruntimeconfig.cache
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.csproj.CopyComplete
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\Test.Core.dll
+C:\Users\G-Mykel\source\repos\WebApplication14\WebApplication14\bin\Debug\net5.0\Test.Core.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\appsettings.json
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.exe
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.deps.json
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.runtimeconfig.json
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.runtimeconfig.dev.json
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\ref\WebApplication14.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Test.Core.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Test.Data.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Test.Core.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Test.Data.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.AssemblyInfoInputs.cache
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.AssemblyInfo.cs
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.csproj.CoreCompileInputs.cache
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\staticwebassets\WebApplication14.StaticWebAssets.Manifest.cache
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\staticwebassets\WebApplication14.StaticWebAssets.xml
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\scopedcss\bundle\WebApplication14.styles.css
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.RazorTargetAssemblyInfo.cache
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.csproj.CopyComplete
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\ref\WebApplication14.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.pdb
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.genruntimeconfig.cache
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Humanizer.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\Nlog.config
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\NLog.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.csproj.AssemblyReference.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Nlog.config
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\appsettings.json
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.StaticWebAssets.xml
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.exe
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.deps.json
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.runtimeconfig.json
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.runtimeconfig.dev.json
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\WebApplication14.pdb
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Humanizer.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\NLog.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Test.Core.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Test.Data.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Test.Core.pdb
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\bin\Debug\net5.0\Test.Data.pdb
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.csproj.AssemblyReference.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.AssemblyInfoInputs.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.AssemblyInfo.cs
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\scopedcss\bundle\WebApplication14.styles.css
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\staticwebassets\WebApplication14.StaticWebAssets.Manifest.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\staticwebassets\WebApplication14.StaticWebAssets.Pack.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\staticwebassets\msbuild.WebApplication14.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\staticwebassets\msbuild.build.WebApplication14.props
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication14.props
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebApplication14.props
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.RazorTargetAssemblyInfo.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.csproj.CopyComplete
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\refint\WebApplication14.dll
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.pdb
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\WebApplication14.genruntimeconfig.cache
+C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14\obj\Debug\net5.0\ref\WebApplication14.dll

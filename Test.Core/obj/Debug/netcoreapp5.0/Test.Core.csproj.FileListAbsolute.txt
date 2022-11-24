@@ -1,0 +1,11 @@
+C:\Users\G-Mykel\source\repos\WebApplication14\Test.Core\bin\Debug\netcoreapp5.0\Test.Core.deps.json
+C:\Users\G-Mykel\source\repos\WebApplication14\Test.Core\bin\Debug\netcoreapp5.0\Test.Core.dll
+C:\Users\G-Mykel\source\repos\WebApplication14\Test.Core\bin\Debug\netcoreapp5.0\ref\Test.Core.dll
+C:\Users\G-Mykel\source\repos\WebApplication14\Test.Core\bin\Debug\netcoreapp5.0\Test.Core.pdb
+C:\Users\G-Mykel\source\repos\WebApplication14\Test.Core\obj\Debug\netcoreapp5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G-Mykel\source\repos\WebApplication14\Test.Core\obj\Debug\netcoreapp5.0\Test.Core.AssemblyInfoInputs.cache
+C:\Users\G-Mykel\source\repos\WebApplication14\Test.Core\obj\Debug\netcoreapp5.0\Test.Core.AssemblyInfo.cs
+C:\Users\G-Mykel\source\repos\WebApplication14\Test.Core\obj\Debug\netcoreapp5.0\Test.Core.csproj.CoreCompileInputs.cache
+C:\Users\G-Mykel\source\repos\WebApplication14\Test.Core\obj\Debug\netcoreapp5.0\Test.Core.dll
+C:\Users\G-Mykel\source\repos\WebApplication14\Test.Core\obj\Debug\netcoreapp5.0\ref\Test.Core.dll
+C:\Users\G-Mykel\source\repos\WebApplication14\Test.Core\obj\Debug\netcoreapp5.0\Test.Core.pdb

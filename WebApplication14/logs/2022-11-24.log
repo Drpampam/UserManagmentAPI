@@ -1,0 +1,1521 @@
+2022-11-24 00:01:28.3961 DEBUG Hosting starting
+2022-11-24 00:01:28.4614 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 00:01:28.4760 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-24 00:01:28.4760 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-24 00:01:28.4760 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-24 00:01:28.4760 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-24 00:01:28.4760 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-24 00:01:28.4760 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-24 00:01:28.4760 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-24 00:01:28.4760 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-24 00:01:28.4760 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-24 00:01:28.4760 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-24 00:01:28.4760 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-24 00:01:28.4902 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-24 00:01:28.4902 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-24 00:01:28.4902 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-24 00:01:28.4902 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-24 00:01:28.5406 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 00:01:28.5406 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 00:01:28.5406 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 00:01:28.5406 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 00:01:28.5406 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 00:01:28.5406 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-24 00:01:28.5406 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-24 00:01:28.6842 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-24 00:01:28.6842 INFO Application started. Press Ctrl+C to shut down.
+2022-11-24 00:01:28.6842 INFO Hosting environment: Development
+2022-11-24 00:01:28.6842 INFO Content root path: C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14
+2022-11-24 00:01:28.6842 DEBUG Hosting started
+2022-11-24 00:01:28.7410 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/index.html - -
+2022-11-24 00:01:28.7410 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-24 00:01:28.7410 TRACE All hosts are allowed.
+2022-11-24 00:01:28.8805 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/index.html - - - 200 - text/html;charset=utf-8 140.1226ms
+2022-11-24 00:01:29.0551 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - -
+2022-11-24 00:01:29.0551 TRACE All hosts are allowed.
+2022-11-24 00:01:29.1531 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 97.9062ms
+2022-11-24 01:02:33.9288 DEBUG Hosting starting
+2022-11-24 01:02:34.0042 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 01:02:34.0148 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-24 01:02:34.0148 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-24 01:02:34.0148 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-24 01:02:34.0148 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-24 01:02:34.0148 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-24 01:02:34.0148 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-24 01:02:34.0148 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-24 01:02:34.0221 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-24 01:02:34.0221 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-24 01:02:34.0221 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-24 01:02:34.0221 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-24 01:02:34.0221 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-24 01:02:34.0221 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-24 01:02:34.0221 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-24 01:02:34.0221 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-24 01:02:34.0783 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:02:34.0783 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 01:02:34.0907 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:02:34.0907 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 01:02:34.0907 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 01:02:34.0907 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-24 01:02:34.1008 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-24 01:02:34.2950 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-24 01:02:42.7627 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2022-11-24 01:02:42.7627 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2022-11-24 01:02:42.9638 INFO Entity Framework Core 5.0.17 initialized 'AppIdentityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2022-11-24 01:02:43.0391 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:02:43.3160 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:02:43.3213 DEBUG Creating DbCommand for 'ExecuteNonQuery'.
+2022-11-24 01:02:43.3213 DEBUG Created DbCommand for 'ExecuteNonQuery' (2ms).
+2022-11-24 01:02:43.3213 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:02:43.3524 INFO Executed DbCommand (22ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:02:43.3524 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:02:43.3524 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:02:43.3524 DEBUG Creating DbCommand for 'ExecuteScalar'.
+2022-11-24 01:02:43.3524 DEBUG Created DbCommand for 'ExecuteScalar' (0ms).
+2022-11-24 01:02:43.3524 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:02:43.3524 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:02:43.3524 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2022-11-24 01:02:43.4203 INFO Executed DbCommand (59ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2022-11-24 01:02:43.4203 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:02:43.4203 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:02:45.4086 DEBUG Context 'AppIdentityDbContext' started tracking 'Address' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:02:46.2118 DEBUG SaveChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:02:46.2118 DEBUG DetectChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:02:46.2118 DEBUG DetectChanges completed for 'AppIdentityDbContext'.
+2022-11-24 01:02:46.2289 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:02:46.2289 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:02:46.2289 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2022-11-24 01:02:46.2289 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2022-11-24 01:02:46.2763 DEBUG Creating DbCommand for 'ExecuteReader'.
+2022-11-24 01:02:46.2763 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2022-11-24 01:02:46.2763 DEBUG Executing DbCommand [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Id], [Name])
+VALUES (@p0, @p1);
+2022-11-24 01:02:46.3796 ERROR Failed executing DbCommand (96ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Id], [Name])
+VALUES (@p0, @p1);
+2022-11-24 01:02:46.4445 DEBUG Disposing transaction.
+2022-11-24 01:02:46.4445 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:02:46.4445 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:02:46.5866 ERROR An exception occurred in the database while saving changes for context type 'Test.Data.AppIdentityDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Addresses' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:2a8ea543-de6e-4256-871c-e7cdcf256f3c
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-11-24 01:02:46.6292 DEBUG 'AppIdentityDbContext' disposed.
+2022-11-24 01:02:46.6400 FATAL Application startup exception
+2022-11-24 01:04:28.9783 DEBUG Hosting starting
+2022-11-24 01:04:29.0399 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 01:04:29.0540 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-24 01:04:29.0540 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-24 01:04:29.0540 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-24 01:04:29.0540 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-24 01:04:29.0540 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-24 01:04:29.0540 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-24 01:04:29.0540 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-24 01:04:29.0540 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-24 01:04:29.0712 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-24 01:04:29.0712 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-24 01:04:29.0712 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-24 01:04:29.0712 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-24 01:04:29.0712 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-24 01:04:29.0712 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-24 01:04:29.0712 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-24 01:04:29.1313 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:04:29.1313 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 01:04:29.1313 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:04:29.1313 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 01:04:29.1313 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 01:04:29.1313 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-24 01:04:29.1471 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-24 01:04:29.2694 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-24 01:04:33.9971 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2022-11-24 01:04:33.9971 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2022-11-24 01:04:34.1863 INFO Entity Framework Core 5.0.17 initialized 'AppIdentityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2022-11-24 01:04:34.2237 DEBUG Context 'AppIdentityDbContext' started tracking 'Address' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:04:34.2252 DEBUG SaveChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:04:34.2252 DEBUG DetectChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:04:34.2252 DEBUG DetectChanges completed for 'AppIdentityDbContext'.
+2022-11-24 01:04:34.2833 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:04:34.4858 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:04:34.4858 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2022-11-24 01:04:34.4949 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2022-11-24 01:04:34.5285 DEBUG Creating DbCommand for 'ExecuteReader'.
+2022-11-24 01:04:34.5285 DEBUG Created DbCommand for 'ExecuteReader' (1ms).
+2022-11-24 01:04:34.5469 DEBUG Executing DbCommand [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Id], [Name])
+VALUES (@p0, @p1);
+2022-11-24 01:04:34.6493 ERROR Failed executing DbCommand (103ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Id], [Name])
+VALUES (@p0, @p1);
+2022-11-24 01:04:34.7200 DEBUG Disposing transaction.
+2022-11-24 01:04:34.7200 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:04:34.7247 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:04:34.7717 ERROR An exception occurred in the database while saving changes for context type 'Test.Data.AppIdentityDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Addresses' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:fd35491a-f313-4642-9aec-53a654f54aac
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-11-24 01:04:34.8163 DEBUG 'AppIdentityDbContext' disposed.
+2022-11-24 01:04:34.8241 FATAL Application startup exception
+2022-11-24 01:05:43.7751 DEBUG Hosting starting
+2022-11-24 01:05:43.8408 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 01:05:43.8531 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-24 01:05:43.8531 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-24 01:05:43.8531 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-24 01:05:43.8531 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-24 01:05:43.8531 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-24 01:05:43.8531 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-24 01:05:43.8531 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-24 01:05:43.8531 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-24 01:05:43.8664 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-24 01:05:43.8664 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-24 01:05:43.8664 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-24 01:05:43.8664 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-24 01:05:43.8664 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-24 01:05:43.8664 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-24 01:05:43.8664 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-24 01:05:43.9251 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:05:43.9251 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 01:05:43.9283 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:05:43.9283 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 01:05:43.9283 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 01:05:43.9283 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-24 01:05:43.9283 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-24 01:05:44.0419 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-24 01:05:48.0101 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2022-11-24 01:05:48.0101 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2022-11-24 01:05:48.1964 INFO Entity Framework Core 5.0.17 initialized 'AppIdentityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2022-11-24 01:05:48.2429 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:05:48.4399 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:05:48.4450 DEBUG Creating DbCommand for 'ExecuteNonQuery'.
+2022-11-24 01:05:48.4450 DEBUG Created DbCommand for 'ExecuteNonQuery' (2ms).
+2022-11-24 01:05:48.4450 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:05:48.4743 INFO Executed DbCommand (21ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:05:48.4743 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:05:48.4743 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:05:48.4743 DEBUG Creating DbCommand for 'ExecuteScalar'.
+2022-11-24 01:05:48.4743 DEBUG Created DbCommand for 'ExecuteScalar' (0ms).
+2022-11-24 01:05:48.4743 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:05:48.4743 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:05:48.4743 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2022-11-24 01:05:48.5114 INFO Executed DbCommand (28ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2022-11-24 01:05:48.5114 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:05:48.5114 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:05:48.5613 DEBUG Context 'AppIdentityDbContext' started tracking 'Address' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:05:48.5613 DEBUG SaveChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:05:48.5613 DEBUG DetectChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:05:48.5751 DEBUG DetectChanges completed for 'AppIdentityDbContext'.
+2022-11-24 01:05:48.5751 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:05:48.5751 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:05:48.5751 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2022-11-24 01:05:48.5896 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2022-11-24 01:05:48.6231 DEBUG Creating DbCommand for 'ExecuteReader'.
+2022-11-24 01:05:48.6231 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2022-11-24 01:05:48.6301 DEBUG Executing DbCommand [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Id], [Name])
+VALUES (@p0, @p1);
+2022-11-24 01:05:48.7365 ERROR Failed executing DbCommand (108ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Id], [Name])
+VALUES (@p0, @p1);
+2022-11-24 01:05:48.7978 DEBUG Disposing transaction.
+2022-11-24 01:05:48.7978 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:05:48.7978 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:05:48.8406 ERROR An exception occurred in the database while saving changes for context type 'Test.Data.AppIdentityDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Addresses' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:3d55409d-b078-4d17-8fd7-005160b05d8d
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-11-24 01:05:48.8715 DEBUG 'AppIdentityDbContext' disposed.
+2022-11-24 01:05:48.8715 FATAL Application startup exception
+2022-11-24 01:07:12.2621 DEBUG Hosting starting
+2022-11-24 01:07:12.3184 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 01:07:12.3184 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-24 01:07:12.3184 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-24 01:07:12.3184 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-24 01:07:12.3184 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-24 01:07:12.3184 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-24 01:07:12.3184 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-24 01:07:12.3184 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-24 01:07:12.3341 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-24 01:07:12.3341 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-24 01:07:12.3341 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-24 01:07:12.3341 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-24 01:07:12.3341 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-24 01:07:12.3341 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-24 01:07:12.3341 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-24 01:07:12.3341 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-24 01:07:12.3921 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:07:12.3921 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 01:07:12.3921 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:07:12.3979 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 01:07:12.3979 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 01:07:12.3979 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-24 01:07:12.3979 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-24 01:07:12.5132 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-24 01:07:16.0846 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2022-11-24 01:07:16.0846 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2022-11-24 01:07:16.2833 INFO Entity Framework Core 5.0.17 initialized 'AppIdentityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2022-11-24 01:07:16.3321 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:07:16.5310 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:07:16.5380 DEBUG Creating DbCommand for 'ExecuteNonQuery'.
+2022-11-24 01:07:16.5380 DEBUG Created DbCommand for 'ExecuteNonQuery' (2ms).
+2022-11-24 01:07:16.5380 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:07:16.5695 INFO Executed DbCommand (22ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:07:16.5695 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:07:16.5695 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:07:16.5695 DEBUG Creating DbCommand for 'ExecuteScalar'.
+2022-11-24 01:07:16.5695 DEBUG Created DbCommand for 'ExecuteScalar' (0ms).
+2022-11-24 01:07:16.5695 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:07:16.5695 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:07:16.5695 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2022-11-24 01:07:16.6092 INFO Executed DbCommand (27ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2022-11-24 01:07:16.6092 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:07:16.6149 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:07:16.6400 DEBUG '"AppIdentityDbContext"' generated a temporary value for the property '"Id"."Address"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:07:16.6734 DEBUG Context 'AppIdentityDbContext' started tracking 'Address' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:07:16.6734 DEBUG SaveChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:07:16.6734 DEBUG DetectChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:07:16.6819 DEBUG DetectChanges completed for 'AppIdentityDbContext'.
+2022-11-24 01:07:16.6819 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:07:16.6819 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:07:16.6819 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2022-11-24 01:07:16.6959 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2022-11-24 01:07:16.7279 DEBUG Creating DbCommand for 'ExecuteReader'.
+2022-11-24 01:07:16.7279 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2022-11-24 01:07:16.7279 DEBUG Executing DbCommand [Parameters=[@p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Name])
+VALUES (@p0);
+SELECT [Id]
+FROM [Addresses]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-11-24 01:07:16.7604 INFO Executed DbCommand (29ms) [Parameters=[@p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Name])
+VALUES (@p0);
+SELECT [Id]
+FROM [Addresses]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-11-24 01:07:16.7849 DEBUG The foreign key property 'Address.Id' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-11-24 01:07:16.7906 DEBUG A data reader was disposed.
+2022-11-24 01:07:16.7906 DEBUG Committing transaction.
+2022-11-24 01:07:16.7906 DEBUG Committed transaction.
+2022-11-24 01:07:16.7906 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:07:16.7906 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:07:16.7906 DEBUG Disposing transaction.
+2022-11-24 01:07:16.8042 DEBUG An entity of type 'Address' tracked by 'AppIdentityDbContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:07:16.8042 DEBUG SaveChanges completed for 'AppIdentityDbContext' with 1 entities written to the database.
+2022-11-24 01:07:20.0204 DEBUG 'AppIdentityDbContext' disposed.
+2022-11-24 01:07:20.0493 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-24 01:07:20.0493 INFO Application started. Press Ctrl+C to shut down.
+2022-11-24 01:07:20.0493 INFO Hosting environment: Development
+2022-11-24 01:07:20.0493 INFO Content root path: C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14
+2022-11-24 01:07:20.0493 DEBUG Hosting started
+2022-11-24 01:07:20.0820 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/index.html - -
+2022-11-24 01:07:20.0833 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-24 01:07:20.0833 TRACE All hosts are allowed.
+2022-11-24 01:07:20.1661 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/index.html - - - 200 - text/html;charset=utf-8 84.1561ms
+2022-11-24 01:07:20.3085 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - -
+2022-11-24 01:07:20.3085 TRACE All hosts are allowed.
+2022-11-24 01:07:20.3806 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 72.0522ms
+2022-11-24 01:07:55.9095 DEBUG Hosting starting
+2022-11-24 01:07:55.9791 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 01:07:55.9919 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-24 01:07:55.9919 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-24 01:07:55.9919 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-24 01:07:55.9919 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-24 01:07:55.9919 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-24 01:07:55.9919 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-24 01:07:55.9919 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-24 01:07:55.9919 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-24 01:07:56.0060 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-24 01:07:56.0060 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-24 01:07:56.0060 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-24 01:07:56.0060 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-24 01:07:56.0060 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-24 01:07:56.0060 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-24 01:07:56.0060 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-24 01:07:56.0544 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:07:56.0544 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 01:07:56.0544 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:07:56.0544 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 01:07:56.0544 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 01:07:56.0544 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-24 01:07:56.0544 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-24 01:07:56.1695 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-24 01:07:58.6398 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2022-11-24 01:07:58.6398 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2022-11-24 01:07:58.8548 INFO Entity Framework Core 5.0.17 initialized 'AppIdentityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2022-11-24 01:07:58.9037 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:07:59.0971 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:07:59.1022 DEBUG Creating DbCommand for 'ExecuteNonQuery'.
+2022-11-24 01:07:59.1022 DEBUG Created DbCommand for 'ExecuteNonQuery' (2ms).
+2022-11-24 01:07:59.1179 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:07:59.1381 INFO Executed DbCommand (24ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:07:59.1381 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:07:59.1381 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:07:59.1466 DEBUG Creating DbCommand for 'ExecuteScalar'.
+2022-11-24 01:07:59.1466 DEBUG Created DbCommand for 'ExecuteScalar' (0ms).
+2022-11-24 01:07:59.1466 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:07:59.1466 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:07:59.1466 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2022-11-24 01:07:59.1717 INFO Executed DbCommand (23ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2022-11-24 01:07:59.1717 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:07:59.1717 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:07:59.1974 DEBUG '"AppIdentityDbContext"' generated a temporary value for the property '"Id"."Address"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:07:59.2343 DEBUG Context 'AppIdentityDbContext' started tracking 'Address' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:07:59.2343 DEBUG SaveChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:07:59.2343 DEBUG DetectChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:07:59.2444 DEBUG DetectChanges completed for 'AppIdentityDbContext'.
+2022-11-24 01:07:59.2444 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:07:59.2444 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:07:59.2444 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2022-11-24 01:07:59.2571 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2022-11-24 01:07:59.2910 DEBUG Creating DbCommand for 'ExecuteReader'.
+2022-11-24 01:07:59.2910 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2022-11-24 01:07:59.2910 DEBUG Executing DbCommand [Parameters=[@p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Name])
+VALUES (@p0);
+SELECT [Id]
+FROM [Addresses]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-11-24 01:07:59.3280 INFO Executed DbCommand (32ms) [Parameters=[@p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Name])
+VALUES (@p0);
+SELECT [Id]
+FROM [Addresses]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-11-24 01:07:59.3484 DEBUG The foreign key property 'Address.Id' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-11-24 01:07:59.3548 DEBUG A data reader was disposed.
+2022-11-24 01:07:59.3548 DEBUG Committing transaction.
+2022-11-24 01:07:59.3548 DEBUG Committed transaction.
+2022-11-24 01:07:59.3548 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:07:59.3548 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:07:59.3548 DEBUG Disposing transaction.
+2022-11-24 01:07:59.3721 DEBUG An entity of type 'Address' tracked by 'AppIdentityDbContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:07:59.3721 DEBUG SaveChanges completed for 'AppIdentityDbContext' with 1 entities written to the database.
+2022-11-24 01:07:59.4332 DEBUG 'AppIdentityDbContext' disposed.
+2022-11-24 01:07:59.4604 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-24 01:07:59.4604 INFO Application started. Press Ctrl+C to shut down.
+2022-11-24 01:07:59.4604 INFO Hosting environment: Development
+2022-11-24 01:07:59.4604 INFO Content root path: C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14
+2022-11-24 01:07:59.4604 DEBUG Hosting started
+2022-11-24 01:07:59.4945 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/index.html - -
+2022-11-24 01:07:59.4945 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-24 01:07:59.4945 TRACE All hosts are allowed.
+2022-11-24 01:07:59.5815 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/index.html - - - 200 - text/html;charset=utf-8 87.9580ms
+2022-11-24 01:07:59.7037 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - -
+2022-11-24 01:07:59.7037 TRACE All hosts are allowed.
+2022-11-24 01:07:59.7789 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 75.1663ms
+2022-11-24 01:10:46.4409 DEBUG Hosting starting
+2022-11-24 01:10:46.5008 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 01:10:46.5117 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-24 01:10:46.5117 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-24 01:10:46.5117 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-24 01:10:46.5117 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-24 01:10:46.5117 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-24 01:10:46.5117 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-24 01:10:46.5117 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-24 01:10:46.5117 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-24 01:10:46.5251 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-24 01:10:46.5251 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-24 01:10:46.5251 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-24 01:10:46.5251 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-24 01:10:46.5251 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-24 01:10:46.5251 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-24 01:10:46.5367 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-24 01:10:46.5766 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:10:46.5766 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 01:10:46.5766 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:10:46.5766 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 01:10:46.5766 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 01:10:46.5852 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-24 01:10:46.5852 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-24 01:10:46.6847 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-24 01:10:52.6274 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2022-11-24 01:10:52.6320 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2022-11-24 01:10:52.8291 INFO Entity Framework Core 5.0.17 initialized 'AppIdentityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2022-11-24 01:10:52.8747 DEBUG Migrating using database 'Test' on server '.'.
+2022-11-24 01:10:52.8747 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.0829 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.0880 DEBUG Creating DbCommand for 'ExecuteNonQuery'.
+2022-11-24 01:10:53.0880 DEBUG Created DbCommand for 'ExecuteNonQuery' (2ms).
+2022-11-24 01:10:53.0880 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:10:53.1170 INFO Executed DbCommand (21ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:10:53.1170 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1170 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1170 DEBUG Creating DbCommand for 'ExecuteScalar'.
+2022-11-24 01:10:53.1170 DEBUG Created DbCommand for 'ExecuteScalar' (0ms).
+2022-11-24 01:10:53.1170 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1170 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1170 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-11-24 01:10:53.1430 INFO Executed DbCommand (16ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-11-24 01:10:53.1430 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1430 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1463 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1463 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1463 DEBUG Creating DbCommand for 'ExecuteNonQuery'.
+2022-11-24 01:10:53.1463 DEBUG Created DbCommand for 'ExecuteNonQuery' (0ms).
+2022-11-24 01:10:53.1463 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:10:53.1463 INFO Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:10:53.1463 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1463 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1463 DEBUG Creating DbCommand for 'ExecuteScalar'.
+2022-11-24 01:10:53.1463 DEBUG Created DbCommand for 'ExecuteScalar' (0ms).
+2022-11-24 01:10:53.1463 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1463 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1463 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-11-24 01:10:53.1463 INFO Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-11-24 01:10:53.1463 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1463 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1463 DEBUG Creating DbCommand for 'ExecuteReader'.
+2022-11-24 01:10:53.1463 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2022-11-24 01:10:53.1463 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1463 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1463 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-11-24 01:10:53.1633 INFO Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-11-24 01:10:53.1633 DEBUG A data reader was disposed.
+2022-11-24 01:10:53.1633 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1633 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1633 INFO Applying migration '20221123230430_seedded-data-r'.
+2022-11-24 01:10:53.1918 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1918 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.1937 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2022-11-24 01:10:53.1937 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2022-11-24 01:10:53.1937 DEBUG Creating DbCommand for 'ExecuteNonQuery'.
+2022-11-24 01:10:53.1937 DEBUG Created DbCommand for 'ExecuteNonQuery' (0ms).
+2022-11-24 01:10:53.1937 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20221123230430_seedded-data-r', N'5.0.17');
+2022-11-24 01:10:53.1937 INFO Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20221123230430_seedded-data-r', N'5.0.17');
+2022-11-24 01:10:53.1937 DEBUG Committing transaction.
+2022-11-24 01:10:53.1937 DEBUG Committed transaction.
+2022-11-24 01:10:53.2096 DEBUG Disposing transaction.
+2022-11-24 01:10:53.2096 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:10:53.2096 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:10:54.3649 DEBUG 'AppIdentityDbContext' disposed.
+2022-11-24 01:10:56.5694 INFO Entity Framework Core 5.0.17 initialized 'AppIdentityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2022-11-24 01:10:56.5694 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:10:56.5694 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:10:56.5694 DEBUG Creating DbCommand for 'ExecuteNonQuery'.
+2022-11-24 01:10:56.5694 DEBUG Created DbCommand for 'ExecuteNonQuery' (0ms).
+2022-11-24 01:10:56.5694 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:10:56.5694 INFO Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:10:56.5694 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:10:56.5694 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:10:56.5694 DEBUG Creating DbCommand for 'ExecuteScalar'.
+2022-11-24 01:10:56.5694 DEBUG Created DbCommand for 'ExecuteScalar' (0ms).
+2022-11-24 01:10:56.5694 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:10:56.5694 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:10:56.5694 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2022-11-24 01:10:56.5950 INFO Executed DbCommand (14ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2022-11-24 01:10:56.5950 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:10:56.5950 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:10:56.6205 DEBUG '"AppIdentityDbContext"' generated a temporary value for the property '"Id"."Address"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:10:56.6558 DEBUG Context 'AppIdentityDbContext' started tracking 'Address' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:10:56.6558 DEBUG SaveChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:10:56.6558 DEBUG DetectChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:10:56.6639 DEBUG DetectChanges completed for 'AppIdentityDbContext'.
+2022-11-24 01:10:56.6639 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:10:56.6639 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:10:56.6639 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2022-11-24 01:10:56.6639 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2022-11-24 01:10:56.7002 DEBUG Creating DbCommand for 'ExecuteReader'.
+2022-11-24 01:10:56.7002 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2022-11-24 01:10:56.7002 DEBUG Executing DbCommand [Parameters=[@p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Name])
+VALUES (@p0);
+SELECT [Id]
+FROM [Addresses]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-11-24 01:10:56.7202 INFO Executed DbCommand (17ms) [Parameters=[@p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Name])
+VALUES (@p0);
+SELECT [Id]
+FROM [Addresses]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-11-24 01:10:56.7329 DEBUG The foreign key property 'Address.Id' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-11-24 01:10:56.7329 DEBUG A data reader was disposed.
+2022-11-24 01:10:56.7329 DEBUG Committing transaction.
+2022-11-24 01:10:56.7396 DEBUG Committed transaction.
+2022-11-24 01:10:56.7396 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:10:56.7396 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:10:56.7396 DEBUG Disposing transaction.
+2022-11-24 01:10:56.7396 DEBUG An entity of type 'Address' tracked by 'AppIdentityDbContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:10:56.7396 DEBUG SaveChanges completed for 'AppIdentityDbContext' with 1 entities written to the database.
+2022-11-24 01:10:56.7963 DEBUG 'AppIdentityDbContext' disposed.
+2022-11-24 01:10:56.8265 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-24 01:10:56.8265 INFO Application started. Press Ctrl+C to shut down.
+2022-11-24 01:10:56.8265 INFO Hosting environment: Development
+2022-11-24 01:10:56.8265 INFO Content root path: C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14
+2022-11-24 01:10:56.8265 DEBUG Hosting started
+2022-11-24 01:10:56.8660 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/index.html - -
+2022-11-24 01:10:56.8660 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-24 01:10:56.8660 TRACE All hosts are allowed.
+2022-11-24 01:10:56.9531 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/index.html - - - 200 - text/html;charset=utf-8 87.5778ms
+2022-11-24 01:10:57.0887 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - -
+2022-11-24 01:10:57.0887 TRACE All hosts are allowed.
+2022-11-24 01:10:57.1579 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 69.1223ms
+2022-11-24 01:25:28.2027 DEBUG Hosting starting
+2022-11-24 01:25:28.2660 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 01:25:28.2755 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-24 01:25:28.2755 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-24 01:25:28.2755 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-24 01:25:28.2755 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-24 01:25:28.2755 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-24 01:25:28.2755 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-24 01:25:28.2755 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-24 01:25:28.2755 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-24 01:25:28.2872 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-24 01:25:28.2872 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-24 01:25:28.2872 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-24 01:25:28.2872 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-24 01:25:28.2872 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-24 01:25:28.2872 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-24 01:25:28.2872 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-24 01:25:28.3342 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:25:28.3342 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 01:25:28.3342 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:25:28.3342 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 01:25:28.3342 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 01:25:28.3342 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-24 01:25:28.3342 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-24 01:25:28.4408 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-24 01:25:39.6435 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2022-11-24 01:25:39.6483 DEBUG The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2022-11-24 01:25:39.8554 INFO Entity Framework Core 5.0.17 initialized 'AppIdentityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2022-11-24 01:25:39.9003 DEBUG Migrating using database 'Test' on server '.'.
+2022-11-24 01:25:39.9003 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1049 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1049 DEBUG Creating DbCommand for 'ExecuteNonQuery'.
+2022-11-24 01:25:40.1156 DEBUG Created DbCommand for 'ExecuteNonQuery' (2ms).
+2022-11-24 01:25:40.1156 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:25:40.1425 INFO Executed DbCommand (21ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:25:40.1425 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1495 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1495 DEBUG Creating DbCommand for 'ExecuteScalar'.
+2022-11-24 01:25:40.1495 DEBUG Created DbCommand for 'ExecuteScalar' (0ms).
+2022-11-24 01:25:40.1495 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1495 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1495 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-11-24 01:25:40.1689 INFO Executed DbCommand (13ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-11-24 01:25:40.1689 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1689 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1689 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1689 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1689 DEBUG Creating DbCommand for 'ExecuteNonQuery'.
+2022-11-24 01:25:40.1689 DEBUG Created DbCommand for 'ExecuteNonQuery' (0ms).
+2022-11-24 01:25:40.1689 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:25:40.1689 INFO Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:25:40.1689 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1689 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1689 DEBUG Creating DbCommand for 'ExecuteScalar'.
+2022-11-24 01:25:40.1689 DEBUG Created DbCommand for 'ExecuteScalar' (0ms).
+2022-11-24 01:25:40.1689 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1689 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1689 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-11-24 01:25:40.1783 INFO Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-11-24 01:25:40.1783 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1783 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1783 DEBUG Creating DbCommand for 'ExecuteReader'.
+2022-11-24 01:25:40.1783 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2022-11-24 01:25:40.1783 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1783 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1783 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-11-24 01:25:40.1783 INFO Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-11-24 01:25:40.1783 DEBUG A data reader was disposed.
+2022-11-24 01:25:40.1783 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.1783 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.2012 INFO No migrations were applied. The database is already up to date.
+2022-11-24 01:25:40.2012 DEBUG 'AppIdentityDbContext' disposed.
+2022-11-24 01:25:40.2012 INFO Entity Framework Core 5.0.17 initialized 'AppIdentityDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2022-11-24 01:25:40.2107 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.2107 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.2107 DEBUG Creating DbCommand for 'ExecuteNonQuery'.
+2022-11-24 01:25:40.2107 DEBUG Created DbCommand for 'ExecuteNonQuery' (0ms).
+2022-11-24 01:25:40.2107 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:25:40.2107 INFO Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+2022-11-24 01:25:40.2107 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.2107 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.2107 DEBUG Creating DbCommand for 'ExecuteScalar'.
+2022-11-24 01:25:40.2107 DEBUG Created DbCommand for 'ExecuteScalar' (0ms).
+2022-11-24 01:25:40.2107 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.2107 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.2107 DEBUG Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2022-11-24 01:25:40.2297 INFO Executed DbCommand (15ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+2022-11-24 01:25:40.2297 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.2297 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.2542 DEBUG '"AppIdentityDbContext"' generated a temporary value for the property '"Id"."Address"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:25:40.2861 DEBUG Context 'AppIdentityDbContext' started tracking 'Address' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:25:40.2872 DEBUG SaveChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:25:40.2872 DEBUG DetectChanges starting for 'AppIdentityDbContext'.
+2022-11-24 01:25:40.2872 DEBUG DetectChanges completed for 'AppIdentityDbContext'.
+2022-11-24 01:25:40.2872 DEBUG Opening connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.2872 DEBUG Opened connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.3035 DEBUG Beginning transaction with isolation level 'Unspecified'.
+2022-11-24 01:25:40.3035 DEBUG Began transaction with isolation level 'ReadCommitted'.
+2022-11-24 01:25:40.3653 DEBUG Creating DbCommand for 'ExecuteReader'.
+2022-11-24 01:25:40.3653 DEBUG Created DbCommand for 'ExecuteReader' (0ms).
+2022-11-24 01:25:40.3653 DEBUG Executing DbCommand [Parameters=[@p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Name])
+VALUES (@p0);
+SELECT [Id]
+FROM [Addresses]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-11-24 01:25:40.3906 INFO Executed DbCommand (21ms) [Parameters=[@p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Addresses] ([Name])
+VALUES (@p0);
+SELECT [Id]
+FROM [Addresses]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-11-24 01:25:40.4086 DEBUG The foreign key property 'Address.Id' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-11-24 01:25:40.4138 DEBUG A data reader was disposed.
+2022-11-24 01:25:40.4138 DEBUG Committing transaction.
+2022-11-24 01:25:40.4138 DEBUG Committed transaction.
+2022-11-24 01:25:40.4138 DEBUG Closing connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.4138 DEBUG Closed connection to database 'Test' on server '.'.
+2022-11-24 01:25:40.4138 DEBUG Disposing transaction.
+2022-11-24 01:25:40.4315 DEBUG An entity of type 'Address' tracked by 'AppIdentityDbContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-11-24 01:25:40.4315 DEBUG SaveChanges completed for 'AppIdentityDbContext' with 1 entities written to the database.
+2022-11-24 01:25:40.4794 DEBUG 'AppIdentityDbContext' disposed.
+2022-11-24 01:25:40.5048 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-24 01:25:40.5052 INFO Application started. Press Ctrl+C to shut down.
+2022-11-24 01:25:40.5052 INFO Hosting environment: Development
+2022-11-24 01:25:40.5052 INFO Content root path: C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14
+2022-11-24 01:25:40.5052 DEBUG Hosting started
+2022-11-24 01:25:40.5370 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/index.html - -
+2022-11-24 01:25:40.5370 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-24 01:25:40.5370 TRACE All hosts are allowed.
+2022-11-24 01:25:40.6293 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/index.html - - - 200 - text/html;charset=utf-8 92.4811ms
+2022-11-24 01:25:40.7497 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - -
+2022-11-24 01:25:40.7497 TRACE All hosts are allowed.
+2022-11-24 01:25:40.8244 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 74.7153ms
+2022-11-24 01:30:33.2686 DEBUG Hosting starting
+2022-11-24 01:30:33.3291 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 01:30:33.3419 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-24 01:30:33.3419 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-24 01:30:33.3419 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-24 01:30:33.3419 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-24 01:30:33.3419 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-24 01:30:33.3419 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-24 01:30:33.3419 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-24 01:30:33.3500 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-24 01:30:33.3500 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-24 01:30:33.3500 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-24 01:30:33.3500 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-24 01:30:33.3500 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-24 01:30:33.3500 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-24 01:30:33.3500 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-24 01:30:33.3500 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-24 01:30:33.4126 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:30:33.4126 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 01:30:33.4126 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:30:33.4126 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 01:30:33.4126 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 01:30:33.4126 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-24 01:30:33.4126 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-24 01:30:33.5290 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-24 01:30:33.6796 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-24 01:30:33.6796 INFO Application started. Press Ctrl+C to shut down.
+2022-11-24 01:30:33.6796 INFO Hosting environment: Development
+2022-11-24 01:30:33.6796 INFO Content root path: C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14
+2022-11-24 01:30:33.6796 DEBUG Hosting started
+2022-11-24 01:30:33.7119 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/index.html - -
+2022-11-24 01:30:33.7119 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-24 01:30:33.7119 TRACE All hosts are allowed.
+2022-11-24 01:30:33.8193 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/index.html - - - 200 - text/html;charset=utf-8 107.7164ms
+2022-11-24 01:30:33.9534 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - -
+2022-11-24 01:30:33.9534 TRACE All hosts are allowed.
+2022-11-24 01:30:34.0486 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 95.2019ms
+2022-11-24 01:30:42.0002 INFO Request starting HTTP/1.1 GET http://localhost:60000/api/User/api - -
+2022-11-24 01:30:42.0158 TRACE All hosts are allowed.
+2022-11-24 01:30:42.0230 DEBUG The request path  does not match the path filter
+2022-11-24 01:30:42.0544 DEBUG 2 candidate(s) found for the request path '/api/User/api'
+2022-11-24 01:30:42.0544 DEBUG Endpoint 'WebApplication14.Controllers.UserController.GetAPI (WebApplication14)' with route pattern 'api/User/api' is valid for the request path '/api/User/api'
+2022-11-24 01:30:42.0544 DEBUG Endpoint 'WebApplication14.Controllers.UserController.GetUserByEmail (WebApplication14)' with route pattern 'api/User/{email}' is valid for the request path '/api/User/api'
+2022-11-24 01:30:42.0544 DEBUG Request matched endpoint 'WebApplication14.Controllers.UserController.GetAPI (WebApplication14)'
+2022-11-24 01:30:42.1347 DEBUG AuthenticationScheme: Bearer was not authenticated.
+2022-11-24 01:30:42.1347 INFO Executing endpoint 'WebApplication14.Controllers.UserController.GetAPI (WebApplication14)'
+2022-11-24 01:30:42.1347 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2022-11-24 01:30:42.1584 INFO Route matched with {action = "GetAPI", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAPI() on controller WebApplication14.Controllers.UserController (WebApplication14).
+2022-11-24 01:30:42.1584 DEBUG Execution plan of authorization filters (in the following order): None
+2022-11-24 01:30:42.1584 DEBUG Execution plan of resource filters (in the following order): None
+2022-11-24 01:30:42.1584 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2022-11-24 01:30:42.1584 DEBUG Execution plan of exception filters (in the following order): None
+2022-11-24 01:30:42.1584 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2022-11-24 01:30:42.1584 DEBUG Executing controller factory for controller WebApplication14.Controllers.UserController (WebApplication14)
+2022-11-24 01:30:42.1646 DEBUG Executed controller factory for controller WebApplication14.Controllers.UserController (WebApplication14)
+2022-11-24 01:30:42.1646 TRACE Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2022-11-24 01:30:42.1646 TRACE Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2022-11-24 01:30:42.1646 TRACE Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2022-11-24 01:30:42.1646 TRACE Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2022-11-24 01:30:42.1646 INFO Executing action method WebApplication14.Controllers.UserController.GetAPI (WebApplication14) - Validation state: Valid
+2022-11-24 01:30:51.5062 INFO Start processing HTTP request GET https://open.er-api.com/v6/latest/USD
+2022-11-24 01:30:51.5062 TRACE Request Headers:
+
+2022-11-24 01:30:51.5062 INFO Sending HTTP request GET https://open.er-api.com/v6/latest/USD
+2022-11-24 01:30:51.5062 TRACE Request Headers:
+
+2022-11-24 01:30:52.8025 INFO Received HTTP response headers after 1287.8073ms - 200
+2022-11-24 01:30:52.8025 TRACE Response Headers:
+Date: Thu, 24 Nov 2022 00:30:55 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=3600
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+CF-Cache-Status: HIT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4NxEqpVKipK%2BtR5by%2B5yHlfTAeJZNNW95aYH3RhnB5rPX4i97ShhKCQlF6bXL6kzRbTbK%2B%2Bxaa%2FhLAAOgROuXTzHtB9cQfpinfyrfXvnHpyG0KIRTUd7aStK%2BSCGNum1oQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76ee09ea48b2f840-CDG
+Content-Type: application/json
+Last-Modified: Wed, 23 Nov 2022 23:33:46 GMT
+
+2022-11-24 01:30:52.8025 INFO End processing HTTP request after 1306.7007ms - 200
+2022-11-24 01:30:52.8025 TRACE Response Headers:
+Date: Thu, 24 Nov 2022 00:30:55 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=3600
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+CF-Cache-Status: HIT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4NxEqpVKipK%2BtR5by%2B5yHlfTAeJZNNW95aYH3RhnB5rPX4i97ShhKCQlF6bXL6kzRbTbK%2B%2Bxaa%2FhLAAOgROuXTzHtB9cQfpinfyrfXvnHpyG0KIRTUd7aStK%2BSCGNum1oQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76ee09ea48b2f840-CDG
+Content-Type: application/json
+Last-Modified: Wed, 23 Nov 2022 23:33:46 GMT
+
+2022-11-24 01:36:53.7353 DEBUG Hosting starting
+2022-11-24 01:36:53.7977 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 01:36:53.8084 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-24 01:36:53.8084 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-24 01:36:53.8084 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-24 01:36:53.8084 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-24 01:36:53.8084 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-24 01:36:53.8084 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-24 01:36:53.8084 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-24 01:36:53.8084 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-24 01:36:53.8216 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-24 01:36:53.8216 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-24 01:36:53.8216 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-24 01:36:53.8216 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-24 01:36:53.8216 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-24 01:36:53.8216 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-24 01:36:53.8216 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-24 01:36:53.8683 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:36:53.8683 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 01:36:53.8683 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:36:53.8683 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 01:36:53.8683 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 01:36:53.8683 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-24 01:36:53.8683 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-24 01:36:53.9818 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-24 01:36:54.1131 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-24 01:36:54.1131 INFO Application started. Press Ctrl+C to shut down.
+2022-11-24 01:36:54.1131 INFO Hosting environment: Development
+2022-11-24 01:36:54.1131 INFO Content root path: C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14
+2022-11-24 01:36:54.1131 DEBUG Hosting started
+2022-11-24 01:36:54.1438 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/index.html - -
+2022-11-24 01:36:54.1438 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-24 01:36:54.1438 TRACE All hosts are allowed.
+2022-11-24 01:36:54.2672 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/index.html - - - 200 - text/html;charset=utf-8 123.7199ms
+2022-11-24 01:36:54.4047 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - -
+2022-11-24 01:36:54.4047 TRACE All hosts are allowed.
+2022-11-24 01:36:54.4886 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 83.8627ms
+2022-11-24 01:37:11.7490 INFO Request starting HTTP/1.1 GET http://localhost:60000/api/User/api - -
+2022-11-24 01:37:11.7490 TRACE All hosts are allowed.
+2022-11-24 01:37:11.7603 DEBUG The request path  does not match the path filter
+2022-11-24 01:37:11.7831 DEBUG 2 candidate(s) found for the request path '/api/User/api'
+2022-11-24 01:37:11.7831 DEBUG Endpoint 'WebApplication14.Controllers.UserController.GetAPI (WebApplication14)' with route pattern 'api/User/api' is valid for the request path '/api/User/api'
+2022-11-24 01:37:11.7831 DEBUG Endpoint 'WebApplication14.Controllers.UserController.GetUserByEmail (WebApplication14)' with route pattern 'api/User/{email}' is valid for the request path '/api/User/api'
+2022-11-24 01:37:11.7831 DEBUG Request matched endpoint 'WebApplication14.Controllers.UserController.GetAPI (WebApplication14)'
+2022-11-24 01:37:11.8397 DEBUG AuthenticationScheme: Bearer was not authenticated.
+2022-11-24 01:37:11.8397 INFO Executing endpoint 'WebApplication14.Controllers.UserController.GetAPI (WebApplication14)'
+2022-11-24 01:37:11.8397 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2022-11-24 01:37:11.8602 INFO Route matched with {action = "GetAPI", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAPI() on controller WebApplication14.Controllers.UserController (WebApplication14).
+2022-11-24 01:37:11.8602 DEBUG Execution plan of authorization filters (in the following order): None
+2022-11-24 01:37:11.8602 DEBUG Execution plan of resource filters (in the following order): None
+2022-11-24 01:37:11.8602 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2022-11-24 01:37:11.8602 DEBUG Execution plan of exception filters (in the following order): None
+2022-11-24 01:37:11.8602 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2022-11-24 01:37:11.8602 DEBUG Executing controller factory for controller WebApplication14.Controllers.UserController (WebApplication14)
+2022-11-24 01:37:11.8665 DEBUG Executed controller factory for controller WebApplication14.Controllers.UserController (WebApplication14)
+2022-11-24 01:37:11.8665 TRACE Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2022-11-24 01:37:11.8665 TRACE Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2022-11-24 01:37:11.8665 TRACE Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2022-11-24 01:37:11.8665 TRACE Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2022-11-24 01:37:11.8665 INFO Executing action method WebApplication14.Controllers.UserController.GetAPI (WebApplication14) - Validation state: Valid
+2022-11-24 01:37:15.0163 INFO Start processing HTTP request GET https://open.er-api.com/v6/latest/USD
+2022-11-24 01:37:15.0211 TRACE Request Headers:
+
+2022-11-24 01:37:15.0211 INFO Sending HTTP request GET https://open.er-api.com/v6/latest/USD
+2022-11-24 01:37:15.0211 TRACE Request Headers:
+
+2022-11-24 01:37:15.6979 INFO Received HTTP response headers after 671.6188ms - 200
+2022-11-24 01:37:15.6979 TRACE Response Headers:
+Date: Thu, 24 Nov 2022 00:37:18 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=3600
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+CF-Cache-Status: HIT
+Age: 383
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2Frv1G12TaLskt12xtZyo3kEBmtPxs0sGSzU1iTARh98IdVSY0bfnlZJb1GdZP3IRtE9hxYMU%2BBSFXnMe5lqT01Dc698q3D6gdZx9ROPTDwIc2S33Lwlu2j%2BXy1%2F5H3HkqA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76ee13474bbb999e-CDG
+Content-Type: application/json
+Last-Modified: Wed, 23 Nov 2022 23:33:46 GMT
+
+2022-11-24 01:37:15.6979 INFO End processing HTTP request after 690.939ms - 200
+2022-11-24 01:37:15.6979 TRACE Response Headers:
+Date: Thu, 24 Nov 2022 00:37:18 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=3600
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+CF-Cache-Status: HIT
+Age: 383
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2Frv1G12TaLskt12xtZyo3kEBmtPxs0sGSzU1iTARh98IdVSY0bfnlZJb1GdZP3IRtE9hxYMU%2BBSFXnMe5lqT01Dc698q3D6gdZx9ROPTDwIc2S33Lwlu2j%2BXy1%2F5H3HkqA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76ee13474bbb999e-CDG
+Content-Type: application/json
+Last-Modified: Wed, 23 Nov 2022 23:33:46 GMT
+
+2022-11-24 01:38:44.4970 DEBUG Hosting starting
+2022-11-24 01:38:44.5547 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 01:38:44.5547 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-24 01:38:44.5547 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-24 01:38:44.5547 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-24 01:38:44.5547 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-24 01:38:44.5547 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-24 01:38:44.5547 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-24 01:38:44.5547 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-24 01:38:44.5709 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-24 01:38:44.5709 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-24 01:38:44.5709 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-24 01:38:44.5709 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-24 01:38:44.5709 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-24 01:38:44.5709 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-24 01:38:44.5709 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-24 01:38:44.5838 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-24 01:38:44.6237 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:38:44.6237 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 01:38:44.6237 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 01:38:44.6237 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 01:38:44.6237 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 01:38:44.6323 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-24 01:38:44.6323 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-24 01:38:44.7415 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-24 01:38:44.8807 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-24 01:38:44.8807 INFO Application started. Press Ctrl+C to shut down.
+2022-11-24 01:38:44.8807 INFO Hosting environment: Development
+2022-11-24 01:38:44.8807 INFO Content root path: C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14
+2022-11-24 01:38:44.8807 DEBUG Hosting started
+2022-11-24 01:38:44.9128 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/index.html - -
+2022-11-24 01:38:44.9128 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-24 01:38:44.9128 TRACE All hosts are allowed.
+2022-11-24 01:38:45.0138 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/index.html - - - 200 - text/html;charset=utf-8 101.3261ms
+2022-11-24 01:38:45.1623 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - -
+2022-11-24 01:38:45.1623 TRACE All hosts are allowed.
+2022-11-24 01:38:45.2401 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 77.7844ms
+2022-11-24 01:38:51.4051 INFO Request starting HTTP/1.1 GET http://localhost:60000/api/User/api - -
+2022-11-24 01:38:51.4051 TRACE All hosts are allowed.
+2022-11-24 01:38:51.4051 DEBUG The request path  does not match the path filter
+2022-11-24 01:38:51.4359 DEBUG 2 candidate(s) found for the request path '/api/User/api'
+2022-11-24 01:38:51.4359 DEBUG Endpoint 'WebApplication14.Controllers.UserController.GetAPI (WebApplication14)' with route pattern 'api/User/api' is valid for the request path '/api/User/api'
+2022-11-24 01:38:51.4359 DEBUG Endpoint 'WebApplication14.Controllers.UserController.GetUserByEmail (WebApplication14)' with route pattern 'api/User/{email}' is valid for the request path '/api/User/api'
+2022-11-24 01:38:51.4359 DEBUG Request matched endpoint 'WebApplication14.Controllers.UserController.GetAPI (WebApplication14)'
+2022-11-24 01:38:51.4916 DEBUG AuthenticationScheme: Bearer was not authenticated.
+2022-11-24 01:38:51.4916 INFO Executing endpoint 'WebApplication14.Controllers.UserController.GetAPI (WebApplication14)'
+2022-11-24 01:38:51.4916 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2022-11-24 01:38:51.5128 INFO Route matched with {action = "GetAPI", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAPI() on controller WebApplication14.Controllers.UserController (WebApplication14).
+2022-11-24 01:38:51.5128 DEBUG Execution plan of authorization filters (in the following order): None
+2022-11-24 01:38:51.5128 DEBUG Execution plan of resource filters (in the following order): None
+2022-11-24 01:38:51.5128 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2022-11-24 01:38:51.5128 DEBUG Execution plan of exception filters (in the following order): None
+2022-11-24 01:38:51.5128 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2022-11-24 01:38:51.5128 DEBUG Executing controller factory for controller WebApplication14.Controllers.UserController (WebApplication14)
+2022-11-24 01:38:51.5128 DEBUG Executed controller factory for controller WebApplication14.Controllers.UserController (WebApplication14)
+2022-11-24 01:38:51.5208 TRACE Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2022-11-24 01:38:51.5208 TRACE Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2022-11-24 01:38:51.5208 TRACE Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2022-11-24 01:38:51.5208 TRACE Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2022-11-24 01:38:51.5208 INFO Executing action method WebApplication14.Controllers.UserController.GetAPI (WebApplication14) - Validation state: Valid
+2022-11-24 01:38:53.7440 INFO Start processing HTTP request GET https://open.er-api.com/v6/latest/USD
+2022-11-24 01:38:53.7440 TRACE Request Headers:
+
+2022-11-24 01:38:53.7440 INFO Sending HTTP request GET https://open.er-api.com/v6/latest/USD
+2022-11-24 01:38:53.7440 TRACE Request Headers:
+
+2022-11-24 01:38:54.3466 INFO Received HTTP response headers after 596.0615ms - 200
+2022-11-24 01:38:54.3466 TRACE Response Headers:
+Date: Thu, 24 Nov 2022 00:38:57 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=3600
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+CF-Cache-Status: HIT
+Age: 2011
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VPQ0CCKWRZp9hoU9%2BLKgKsw7peOLKbgAY%2Fogj%2BzVxihL3WgrkuzVip73AsYD1BTqtxg1R5BgFWndP4nU0GYHP0UBPrc5kgmGi7q1%2FJvWcSzJPK4E40W01LyZ0R2AlWpQnw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76ee15afd90003b2-LIS
+Content-Type: application/json
+Last-Modified: Wed, 23 Nov 2022 23:03:07 GMT
+
+2022-11-24 01:38:54.3524 INFO End processing HTTP request after 610.9334ms - 200
+2022-11-24 01:38:54.3524 TRACE Response Headers:
+Date: Thu, 24 Nov 2022 00:38:57 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=3600
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+CF-Cache-Status: HIT
+Age: 2011
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VPQ0CCKWRZp9hoU9%2BLKgKsw7peOLKbgAY%2Fogj%2BzVxihL3WgrkuzVip73AsYD1BTqtxg1R5BgFWndP4nU0GYHP0UBPrc5kgmGi7q1%2FJvWcSzJPK4E40W01LyZ0R2AlWpQnw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76ee15afd90003b2-LIS
+Content-Type: application/json
+Last-Modified: Wed, 23 Nov 2022 23:03:07 GMT
+
+2022-11-24 01:38:54.3733 INFO Executed action method WebApplication14.Controllers.UserController.GetAPI (WebApplication14), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 2845.4135ms.
+2022-11-24 01:38:54.3733 TRACE Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2022-11-24 01:38:54.3733 TRACE Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2022-11-24 01:38:54.3733 TRACE Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2022-11-24 01:38:54.3733 TRACE Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2022-11-24 01:38:54.3733 TRACE Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2022-11-24 01:38:54.3733 TRACE Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2022-11-24 01:38:54.3733 TRACE Before executing action result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2022-11-24 01:38:54.3815 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2022-11-24 01:38:54.3815 DEBUG No information found on request to perform content negotiation.
+2022-11-24 01:38:54.3815 DEBUG Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2022-11-24 01:38:54.3815 DEBUG Attempting to select the first formatter in the output formatters list which can write the result.
+2022-11-24 01:38:54.3815 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2022-11-24 01:38:54.3815 INFO Executing OkObjectResult, writing value of type 'Test.Core.Dto.RateDto'.
+2022-11-24 01:38:54.4024 TRACE After executing action result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2022-11-24 01:38:54.4024 TRACE Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2022-11-24 01:38:54.4024 TRACE Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2022-11-24 01:38:54.4122 INFO Executed action WebApplication14.Controllers.UserController.GetAPI (WebApplication14) in 2891.9254ms
+2022-11-24 01:38:54.4122 INFO Executed endpoint 'WebApplication14.Controllers.UserController.GetAPI (WebApplication14)'
+2022-11-24 01:38:54.4122 INFO Request finished HTTP/1.1 GET http://localhost:60000/api/User/api - - - 200 - application/json;+charset=utf-8 3011.3847ms
+2022-11-24 17:38:08.3051 DEBUG Hosting starting
+2022-11-24 17:38:08.4894 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 17:38:08.5210 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-24 17:38:08.5410 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-24 17:38:08.5552 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-24 17:38:08.5757 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-24 17:38:08.5926 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-24 17:38:08.6164 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-24 17:38:08.6504 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-24 17:38:08.6859 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-24 17:38:08.7016 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-24 17:38:08.7016 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-24 17:38:08.7016 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-24 17:38:08.7016 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-24 17:38:08.7016 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-24 17:38:08.7016 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-24 17:38:08.7338 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-24 17:38:08.8216 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 17:38:08.8233 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 17:38:08.8233 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 17:38:08.8233 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 17:38:08.8402 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 17:38:08.8402 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-24 17:38:08.8402 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-24 17:38:09.0457 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-24 17:38:09.3330 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-24 17:38:09.3330 INFO Application started. Press Ctrl+C to shut down.
+2022-11-24 17:38:09.3330 INFO Hosting environment: Development
+2022-11-24 17:38:09.3330 INFO Content root path: C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14
+2022-11-24 17:38:09.3330 DEBUG Hosting started
+2022-11-24 17:38:09.3864 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/index.html - -
+2022-11-24 17:38:09.3864 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-24 17:38:09.3864 TRACE All hosts are allowed.
+2022-11-24 17:38:09.5734 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/index.html - - - 200 - text/html;charset=utf-8 188.3211ms
+2022-11-24 17:38:09.6030 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui-bundle.js - -
+2022-11-24 17:38:09.6030 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui.css - -
+2022-11-24 17:38:09.6066 TRACE All hosts are allowed.
+2022-11-24 17:38:09.6066 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui-standalone-preset.js - -
+2022-11-24 17:38:09.6484 TRACE All hosts are allowed.
+2022-11-24 17:38:09.6484 TRACE All hosts are allowed.
+2022-11-24 17:38:09.6604 TRACE Range header's value is empty.
+2022-11-24 17:38:09.6604 TRACE Range header's value is empty.
+2022-11-24 17:38:09.6604 TRACE Range header's value is empty.
+2022-11-24 17:38:09.6861 INFO Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-11-24 17:38:09.6861 INFO Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-11-24 17:38:09.6861 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui.css - - - 200 142933 text/css 91.8285ms
+2022-11-24 17:38:09.6861 INFO Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-11-24 17:38:09.7042 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 97.5279ms
+2022-11-24 17:38:09.7440 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 141.0519ms
+2022-11-24 17:38:09.8945 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - -
+2022-11-24 17:38:09.8945 TRACE All hosts are allowed.
+2022-11-24 17:38:09.9905 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 96.0251ms
+2022-11-24 17:50:00.9112 DEBUG Hosting starting
+2022-11-24 17:50:01.0086 INFO User profile is available. Using 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 17:50:01.0272 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-11f51108-29c5-41fd-8e2f-ecc1e28a9c28.xml'.
+2022-11-24 17:50:01.0272 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-2583d486-3ef0-478f-a6d6-57b4f817ccba.xml'.
+2022-11-24 17:50:01.0272 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-350599ac-2990-4fa4-ba81-a507b6713569.xml'.
+2022-11-24 17:50:01.0272 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-567eb3f1-eaab-4fd9-aca2-0152575ad2f3.xml'.
+2022-11-24 17:50:01.0272 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b.xml'.
+2022-11-24 17:50:01.0272 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-dd80c99b-4390-43a1-855d-83ee0b36c79d.xml'.
+2022-11-24 17:50:01.0272 DEBUG Reading data from file 'C:\Users\G-Mykel\AppData\Local\ASP.NET\DataProtection-Keys\key-f1a1926e-c08a-47de-bfb4-322422a239f4.xml'.
+2022-11-24 17:50:01.0272 DEBUG Found key {11f51108-29c5-41fd-8e2f-ecc1e28a9c28}.
+2022-11-24 17:50:01.0480 DEBUG Found key {2583d486-3ef0-478f-a6d6-57b4f817ccba}.
+2022-11-24 17:50:01.0480 DEBUG Found key {350599ac-2990-4fa4-ba81-a507b6713569}.
+2022-11-24 17:50:01.0480 DEBUG Found key {567eb3f1-eaab-4fd9-aca2-0152575ad2f3}.
+2022-11-24 17:50:01.0480 DEBUG Found key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b}.
+2022-11-24 17:50:01.0480 DEBUG Found key {dd80c99b-4390-43a1-855d-83ee0b36c79d}.
+2022-11-24 17:50:01.0480 DEBUG Found key {f1a1926e-c08a-47de-bfb4-322422a239f4}.
+2022-11-24 17:50:01.0766 DEBUG Considering key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} with expiration date 2023-01-03 15:24:50Z as default key.
+2022-11-24 17:50:01.1519 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 17:50:01.1519 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 17:50:01.1519 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 17:50:01.1519 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 17:50:01.1519 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 17:50:01.1671 DEBUG Using key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} as the default key.
+2022-11-24 17:50:01.1671 DEBUG Key ring with default key {8c2f5cd6-0728-460f-b607-cfe0b9bc8c8b} was loaded during application startup.
+2022-11-24 17:50:01.3387 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-24 17:50:01.5343 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-24 17:50:01.5343 INFO Application started. Press Ctrl+C to shut down.
+2022-11-24 17:50:01.5343 INFO Hosting environment: Development
+2022-11-24 17:50:01.5343 INFO Content root path: C:\Users\G-Mykel\Downloads\WebApplication14\WebApplication14
+2022-11-24 17:50:01.5343 DEBUG Hosting started
+2022-11-24 17:50:01.5780 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/index.html - -
+2022-11-24 17:50:01.5780 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-24 17:50:01.5780 TRACE All hosts are allowed.
+2022-11-24 17:50:01.7318 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/index.html - - - 200 - text/html;charset=utf-8 154.6604ms
+2022-11-24 17:50:02.1236 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - -
+2022-11-24 17:50:02.1236 TRACE All hosts are allowed.
+2022-11-24 17:50:02.2383 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 114.7285ms
+2022-11-24 22:54:40.7875 DEBUG Hosting starting
+2022-11-24 22:54:40.8713 INFO User profile is available. Using 'C:\Users\DOTNET\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-11-24 22:54:40.8876 DEBUG Repository contains no viable default key. Caller should generate a key with immediate activation.
+2022-11-24 22:54:40.8876 DEBUG Policy resolution states that a new key should be added to the key ring.
+2022-11-24 22:54:40.8876 INFO Creating key {a89acfaa-6f29-426a-b436-c728f0f36e6d} with creation date 2022-11-24 21:54:40Z, activation date 2022-11-24 21:54:40Z, and expiration date 2023-02-22 21:54:40Z.
+2022-11-24 22:54:40.9076 DEBUG Descriptor deserializer type for key {a89acfaa-6f29-426a-b436-c728f0f36e6d} is 'Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'.
+2022-11-24 22:54:40.9148 DEBUG No key escrow sink found. Not writing key {a89acfaa-6f29-426a-b436-c728f0f36e6d} to escrow.
+2022-11-24 22:54:40.9654 DEBUG Encrypting to Windows DPAPI for current user account (DECAGON\DOTNET).
+2022-11-24 22:54:40.9748 INFO Writing data to file 'C:\Users\DOTNET\AppData\Local\ASP.NET\DataProtection-Keys\key-a89acfaa-6f29-426a-b436-c728f0f36e6d.xml'.
+2022-11-24 22:54:40.9748 DEBUG Key cache expiration token triggered by 'CreateNewKey' operation.
+2022-11-24 22:54:40.9748 DEBUG Reading data from file 'C:\Users\DOTNET\AppData\Local\ASP.NET\DataProtection-Keys\key-a89acfaa-6f29-426a-b436-c728f0f36e6d.xml'.
+2022-11-24 22:54:40.9909 DEBUG Found key {a89acfaa-6f29-426a-b436-c728f0f36e6d}.
+2022-11-24 22:54:40.9909 DEBUG Considering key {a89acfaa-6f29-426a-b436-c728f0f36e6d} with expiration date 2023-02-22 21:54:40Z as default key.
+2022-11-24 22:54:41.1769 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 22:54:41.1769 DEBUG Decrypting secret element using Windows DPAPI.
+2022-11-24 22:54:41.1787 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-11-24 22:54:41.1787 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2022-11-24 22:54:41.1787 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2022-11-24 22:54:41.1787 DEBUG Using key {a89acfaa-6f29-426a-b436-c728f0f36e6d} as the default key.
+2022-11-24 22:54:41.1787 DEBUG Key ring with default key {a89acfaa-6f29-426a-b436-c728f0f36e6d} was loaded during application startup.
+2022-11-24 22:54:41.8933 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-11-24 22:54:42.4842 DEBUG Loaded hosting startup assembly WebApplication14
+2022-11-24 22:54:42.4842 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-11-24 22:54:42.4842 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-11-24 22:54:42.4842 INFO Application started. Press Ctrl+C to shut down.
+2022-11-24 22:54:42.4842 INFO Hosting environment: Development
+2022-11-24 22:54:42.4842 INFO Content root path: C:\Users\DOTNET\Desktop\Callin External API\WebApplication14\WebApplication14
+2022-11-24 22:54:42.4842 DEBUG Hosting started
+2022-11-24 22:54:42.5978 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/index.html - -
+2022-11-24 22:54:42.6972 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2022-11-24 22:54:42.6972 TRACE All hosts are allowed.
+2022-11-24 22:54:43.1390 DEBUG Response markup is scheduled to include browser refresh script injection.
+2022-11-24 22:54:43.2238 DEBUG Response markup was updated to include browser refresh script injection.
+2022-11-24 22:54:43.2304 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/index.html - - - 200 - text/html;charset=utf-8 633.5921ms
+2022-11-24 22:54:43.2595 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui-bundle.js - -
+2022-11-24 22:54:43.2595 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui.css - -
+2022-11-24 22:54:43.2753 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui-standalone-preset.js - -
+2022-11-24 22:54:43.3084 TRACE All hosts are allowed.
+2022-11-24 22:54:43.3084 TRACE All hosts are allowed.
+2022-11-24 22:54:43.3229 TRACE All hosts are allowed.
+2022-11-24 22:54:43.3963 INFO Request starting HTTP/1.1 GET http://localhost:60000/_vs/browserLink - -
+2022-11-24 22:54:43.3963 INFO Request starting HTTP/1.1 GET http://localhost:60000/_framework/aspnetcore-browser-refresh.js - -
+2022-11-24 22:54:43.3963 TRACE Range header's value is empty.
+2022-11-24 22:54:43.3963 TRACE Range header's value is empty.
+2022-11-24 22:54:43.3963 TRACE Range header's value is empty.
+2022-11-24 22:54:43.4119 INFO Request finished HTTP/1.1 GET http://localhost:60000/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 14.7908ms
+2022-11-24 22:54:43.4344 INFO Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-11-24 22:54:43.4344 INFO Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-11-24 22:54:43.4344 INFO Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-11-24 22:54:43.4344 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui.css - - - 200 142933 text/css 176.0321ms
+2022-11-24 22:54:43.4456 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 170.5653ms
+2022-11-24 22:54:43.4826 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 223.0345ms
+2022-11-24 22:54:43.5568 INFO Request finished HTTP/1.1 GET http://localhost:60000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 160.0305ms
+2022-11-24 22:54:44.2299 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - -
+2022-11-24 22:54:44.2299 TRACE All hosts are allowed.
+2022-11-24 22:54:44.2643 INFO Request starting HTTP/1.1 GET http://localhost:60000/swagger/favicon-32x32.png - -
+2022-11-24 22:54:44.2643 TRACE All hosts are allowed.
+2022-11-24 22:54:44.2643 TRACE Range header's value is empty.
+2022-11-24 22:54:44.2643 INFO Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2022-11-24 22:54:44.2643 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/favicon-32x32.png - - - 200 628 image/png 6.8423ms
+2022-11-24 22:54:44.3813 INFO Request finished HTTP/1.1 GET http://localhost:60000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 151.3722ms
+2022-11-24 22:55:44.9958 INFO Request starting HTTP/1.1 POST http://localhost:60000/api/User/loginOut - 0
+2022-11-24 22:55:44.9958 TRACE All hosts are allowed.
+2022-11-24 22:55:45.0096 DEBUG POST requests are not supported
+2022-11-24 22:55:45.0478 DEBUG 1 candidate(s) found for the request path '/api/User/loginOut'
+2022-11-24 22:55:45.0478 DEBUG Endpoint 'WebApplication14.Controllers.UserController.LoginOut (WebApplication14)' with route pattern 'api/User/loginOut' is valid for the request path '/api/User/loginOut'
+2022-11-24 22:55:45.0478 DEBUG Request matched endpoint 'WebApplication14.Controllers.UserController.LoginOut (WebApplication14)'
+2022-11-24 22:55:45.0552 DEBUG The request has an origin header: 'http://localhost:60000'.
+2022-11-24 22:55:45.0552 INFO CORS policy execution successful.
+2022-11-24 22:55:45.5740 DEBUG AuthenticationScheme: Bearer was not authenticated.
+2022-11-24 22:55:45.5740 INFO Executing endpoint 'WebApplication14.Controllers.UserController.LoginOut (WebApplication14)'
+2022-11-24 22:55:45.5740 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2022-11-24 22:55:45.5974 INFO Route matched with {action = "LoginOut", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoginOut() on controller WebApplication14.Controllers.UserController (WebApplication14).
+2022-11-24 22:55:45.5974 DEBUG Execution plan of authorization filters (in the following order): None
+2022-11-24 22:55:45.5999 DEBUG Execution plan of resource filters (in the following order): None
+2022-11-24 22:55:45.5999 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2022-11-24 22:55:45.5999 DEBUG Execution plan of exception filters (in the following order): None
+2022-11-24 22:55:45.5999 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2022-11-24 22:55:45.5999 DEBUG Executing controller factory for controller WebApplication14.Controllers.UserController (WebApplication14)
+2022-11-24 22:55:45.5999 DEBUG Executed controller factory for controller WebApplication14.Controllers.UserController (WebApplication14)
+2022-11-24 22:55:45.5999 TRACE Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2022-11-24 22:55:45.5999 TRACE Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2022-11-24 22:55:45.5999 TRACE Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2022-11-24 22:55:45.5999 TRACE Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2022-11-24 22:55:45.5999 INFO Executing action method WebApplication14.Controllers.UserController.LoginOut (WebApplication14) - Validation state: Valid
+2022-11-24 22:55:45.5999 ERROR can not retrieve
+2022-11-24 22:55:45.6278 INFO AuthenticationScheme: Identity.Application signed out.
+2022-11-24 22:55:45.6278 INFO AuthenticationScheme: Identity.External signed out.
+2022-11-24 22:55:45.6306 INFO AuthenticationScheme: Identity.TwoFactorUserId signed out.
+2022-11-24 22:55:45.6306 INFO Executed action method WebApplication14.Controllers.UserController.LoginOut (WebApplication14), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 19.3129ms.
+2022-11-24 22:55:45.6306 TRACE Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2022-11-24 22:55:45.6306 TRACE Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2022-11-24 22:55:45.6306 TRACE Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2022-11-24 22:55:45.6306 TRACE Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2022-11-24 22:55:45.6306 TRACE Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2022-11-24 22:55:45.6306 TRACE Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2022-11-24 22:55:45.6306 TRACE Before executing action result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2022-11-24 22:55:45.6306 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2022-11-24 22:55:45.6467 DEBUG No information found on request to perform content negotiation.
+2022-11-24 22:55:45.6467 DEBUG Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2022-11-24 22:55:45.6467 DEBUG Attempting to select the first formatter in the output formatters list which can write the result.
+2022-11-24 22:55:45.6467 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response.
+2022-11-24 22:55:45.6467 INFO Executing OkObjectResult, writing value of type 'System.String'.
+2022-11-24 22:55:45.6467 TRACE After executing action result Microsoft.AspNetCore.Mvc.OkObjectResult.
+2022-11-24 22:55:45.6467 TRACE Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2022-11-24 22:55:45.6467 TRACE Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2022-11-24 22:55:45.6467 INFO Executed action WebApplication14.Controllers.UserController.LoginOut (WebApplication14) in 54.3305ms
+2022-11-24 22:55:45.6467 INFO Executed endpoint 'WebApplication14.Controllers.UserController.LoginOut (WebApplication14)'
+2022-11-24 22:55:45.6629 INFO Request finished HTTP/1.1 POST http://localhost:60000/api/User/loginOut - 0 - 200 - text/plain;+charset=utf-8 667.1157ms
